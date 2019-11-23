@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+.Container-box {
+  font-family: 'Anton', sans-serif;
+  color: pink;
+  margin-top: 20px;
+  padding: 15px;
+  border: 5px dotted pink;
+}
+.Head {
+  font-family: 'Anton', sans-serif;
+  color: pink;
+  margin-top: 0px;
+  padding: 5px;
+  font-size: 50px;
+}
